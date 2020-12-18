@@ -39,3 +39,7 @@ V5.06.00
 Required Python version
 -----------------------
 3.x
+
+GitHub
+------
+https://github.com/epsilon537/lz1_cmm2
