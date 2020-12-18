@@ -2,8 +2,8 @@ LZ1 LZ77 encoder/decoder
 ------------------------
 Authors
 -------
-Original C implementation by Rich Geldreich 
-MMBasic and Python ports by Epsilon
+Original C implementation by Rich Geldreich. 
+MMBasic and Python ports by Epsilon.
 
 Current Version
 ---------------
@@ -32,7 +32,7 @@ Host:
 python lz1 e <file> : encodes <file> into <file>.lz1
 python lz1 d <file>.lz1 : decodes <file>.lz1 to <file>
 
-Required CMM2 firmware versio
+Required CMM2 firmware version
 ------------------------------
 V5.06.00
 
